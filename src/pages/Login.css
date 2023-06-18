@@ -1,0 +1,10 @@
+.Login_bg{
+    background-image: url(../assets/loginf.png);
+    height: 87.5vh; 
+
+    background-position: center;
+    background-size: cover;
+    overflow-y: hidden;
+    color: white;
+    background-repeat: no-repeat;
+}
